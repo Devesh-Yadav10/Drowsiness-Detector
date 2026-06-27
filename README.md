@@ -81,9 +81,9 @@ Adaptive-Drowsiness-Detection/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Adaptive-Drowsiness-Detection.git
+git clone https://github.com/yourusername/Drowsiness-Detector.git
 
-cd Adaptive-Drowsiness-Detection
+cd Drowsiness-Detector
 ```
 
 Install dependencies
