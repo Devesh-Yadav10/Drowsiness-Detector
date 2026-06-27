@@ -40,7 +40,7 @@ Unlike conventional driver monitoring systems, this project also incorporates an
 # 📂 Project Structure
 
 ```text
-Adaptive-Drowsiness-Detection/
+Drowsiness-Detector/
 │
 ├── Drowsiness_Detection_System.ipynb
 ├── Detector.py
